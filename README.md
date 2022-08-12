@@ -20,11 +20,11 @@ Phù Tường Vũ(student1368159)
 
 =======================================
 
-Documentations : https://github.com/TuCodeOnGit/CarBreezy
+Documentations : https://github.com/LinhPhiSoFia/CarBreezy
 
 =======================================
 
-Published website :https://tucodeongit.github.io/CarBreezy/
+Published website :https://linhphisofia.github.io/CarBreezy/
 
 =======================================
 
