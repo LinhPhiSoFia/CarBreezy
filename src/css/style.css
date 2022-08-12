@@ -1,0 +1,14 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Slab:wght@100;200;300;400;500;600;700;800;900&display=swap');
+
+@import '_custom.css';
+
+@import '_header.css';
+@import '_footer.css';
+
+@import '_home.css';
+@import '_cars.css';
+
+@import '_sitemap.css';
+@import '_gallery.css';
+
+@import '_user.css';
